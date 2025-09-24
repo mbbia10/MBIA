@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Sobre mim
 Oi! Eu sou a **Bia** ✨  
-Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e programação. 🚀  
+Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia, programação e inovação. 🚀  
 
 ---
 
@@ -40,9 +40,16 @@ Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e pro
 
 ## 🚀 Tecnologias que eu uso
 - **Frontend:** React Web, React Native, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Python, Java, C  
+- **Backend:** Node.js, **Java**, Python, C  
 - **Banco de dados:** SQL, MongoDB  
 - **Outros:** WordPress, Git, GitHub  
+
+---
+
+## 📚 Atualmente estudando
+- Inteligência Artificial 🧠✨  
+- Frameworks modernos para desenvolvimento web e mobile  
+- Boas práticas de arquitetura de software  
 
 ---
 
