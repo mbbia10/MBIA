@@ -1,5 +1,9 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" alt="IA gif"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Bem%20vindo%2C%20mbbia%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-%23ff66b2?style=for-the-badge&logo=github" alt="banner" />
 </p>
 
