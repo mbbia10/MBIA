@@ -1,71 +1,61 @@
-# Olá, eu sou a Maria Beatriz 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Bem%20vindo%2C%20mbbia%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-%23ff66b2?style=for-the-badge&logo=github" alt="banner" />
+</p>
 
-![Header GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)  
-
-💻 Estudante de Desenvolvimento de Sistemas  
-🌱 Aprendendo e aprimorando em **React Native, Node.js e Python**  
-🎮 Criando **jogos educativos e apps interativos**  
-📫 Contato: email@email.com  
-
----
-
-## 🔧 Skills & Tecnologias
-
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks & Bibliotecas
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
-### Ferramentas & Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Tiled](https://img.shields.io/badge/Tiled-ff6347?style=flat&logo=appveyor&logoColor=white)
+<!-- Gráfico de Contribuições -->
+<p align="center">
+  <img width="600" alt="contrib-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mbbia10&bg_color=0d1117&color=ff66b2&line=ff66b2&point=ff4da6&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Maria Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaBeatriz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBeatriz&layout=compact&theme=radical)
+## 👩‍💻 Sobre mim
+Oi! Eu sou a **Bia** ✨  
+Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e programação. 🚀  
 
 ---
 
-## 🚀 Projetos Destaque
+<div align="center">
 
-### 🎮 Jogo Educativo em Lua
-![Lua Game](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)  
-📁 [Repositório](https://github.com/MariaBeatriz/jogo-educativo-lua)  
-📝 Primeira fase pronta, aprendendo conceitos de sistemas embarcados.
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbbia10&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff66b2&icon_color=ff66b2&text_color=ffcce6" />
 
-### 📱 App Calculadora IMC
-![IMC App](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
-📁 [Repositório](https://github.com/MariaBeatriz/app-imc-react-native)  
-📝 Exibe classificação de IMC, peso ideal e histórico do usuário.
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbbia10&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff66b2&text_color=ffcce6" />
 
-### 🌐 Portfolio / Website
-![Portfolio](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)  
-📁 [Repositório](https://github.com/MariaBeatriz/portfolio)  
-📝 Projeto de portfólio pessoal em React.
+</div>
 
 ---
 
-## 🎯 Objetivos
-- Aprimorar habilidades em **desenvolvimento de jogos educativos**  
-- Criar **apps interativos com React Native**  
-- Participar de **projetos open source**  
+## 🏆 Badges & Estatísticas
+<p align="center">
+  <img src="https://img.shields.io/badge/Stars-⭐️-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-✔️-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-👥-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projetos-💻-ff69b4?style=for-the-badge" />
+</p>
 
 ---
 
-Se quiser, posso **adicionar ainda mais animações, como GIFs de badges de conquistas, certificados e progresso de estudos**, deixando ele **completamente interativo e moderno**.  
+## 🚀 Tecnologias que eu uso
+- **Frontend:** React Web, React Native, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Python, Java, C  
+- **Banco de dados:** SQL, MongoDB  
+- **Outros:** WordPress, Git, GitHub  
 
-Quer que eu faça essa versão ainda mais animada e completa?
+---
+
+## 🛠 Ferramentas
+Visual Studio Code • Git • GitHub • Windows • Figma • Office  
+
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+  <a href="https://www.instagram.com/_mbbia" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff66b2?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mbianascimentoalves@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff66b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maria-beatriz-nascimento-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff66b2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
