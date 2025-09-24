@@ -1,9 +1,5 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" alt="IA gif"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Bem%20vindo%2C%20mbbia%20aqui!-Sou%20estudante%20de%20Desenvolvimento%20de%20Sistemas-%23ff66b2?style=for-the-badge&logo=github" alt="banner" />
 </p>
 
@@ -16,7 +12,7 @@
 
 ## 👩‍💻 Sobre mim
 Oi! Eu sou a **Bia** ✨  
-Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia, programação e inovação. 🚀  
+Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e programação. 🚀  
 
 ---
 
@@ -44,16 +40,9 @@ Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia, prog
 
 ## 🚀 Tecnologias que eu uso
 - **Frontend:** React Web, React Native, HTML, CSS, JavaScript  
-- **Backend:** Node.js, **Java**, Python, C  
+- **Backend:** Node.js, Python, Java, C  
 - **Banco de dados:** SQL, MongoDB  
 - **Outros:** WordPress, Git, GitHub  
-
----
-
-## 📚 Atualmente estudando
-- Inteligência Artificial 🧠✨  
-- Frameworks modernos para desenvolvimento web e mobile  
-- Boas práticas de arquitetura de software  
 
 ---
 
