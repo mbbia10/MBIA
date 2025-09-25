@@ -11,8 +11,8 @@
 ---
 
 ## 👩‍💻 Sobre mim
-Oi! Eu sou a **Bia** ✨  
-Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e programação. 🚀  
+Oi! Eu sou a **Maria Beatriz** ✨  
+Sou **estudante de Desenvolvimento de Sistemas** apaixonada por tecnologia e programação. 
 
 ---
 
